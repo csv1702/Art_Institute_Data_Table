@@ -126,4 +126,4 @@ npm run build
 
 ## Author
 
-Chaitanya
+Chandra Shekhar Verma
